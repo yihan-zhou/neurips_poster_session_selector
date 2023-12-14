@@ -10,4 +10,4 @@ A handy Jupyter notebook to help you pick the relevant NeurIPS posters based on 
 
 ## Help To Make It Better
 Please feel free to fork and tweak.
-Drop us a line at [zhanonly@gmail.com].
+Drop me a line at [zhanonly@gmail.com].
